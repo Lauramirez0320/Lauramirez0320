@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">A developer student from Colombia who is falling in love of frontend. Currently I'm studying Fullstack Developer at Digital House, Certified Tech Developer program, and Software Developer at SENA</h3>
+<h3 align="center">A developer student from Colombia who is falling in love of frontend. Currently I'm studying Fullstack Developer at <a href="https://www.digitalhouse.com/ar"> Digital House</a>, <a href="https://www.digitalhouse.com/ar/acciones/certified-tech-developer">Certified Tech Developer</a> career, and Software Developer at <a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/inicio-sofia-plus.html">SENA</a></h3>
 
 - 🌱 I’m currently learning **Javascript, Java, React**
 
