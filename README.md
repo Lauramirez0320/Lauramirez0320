@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A developer student from Colombia who is falling in love of frontend. Currently I'm studying Fullstack Developer at Digital House, Certified Tech Developer program, and Software Developer at SENA</h3>
 
